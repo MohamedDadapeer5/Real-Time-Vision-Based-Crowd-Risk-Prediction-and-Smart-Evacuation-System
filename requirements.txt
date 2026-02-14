@@ -1,0 +1,7 @@
+python -m venv venv
+
+\venv\Scripts\activate
+
+pip install streamlit ultralytics pillow opencv-python numpy pandas matplotlib tensorflow tensorflow-hub plotly requests gtts python-dotenv tqdm
+
+pip install prophet
