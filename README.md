@@ -207,7 +207,7 @@ Forecasting:
 
 # 👨‍💻 Author
 
-Sachin Navi
+Mohamed Dadapeer
 B.Tech – AI & ML
 Real-Time AI Systems & Computer Vision Developer
 
